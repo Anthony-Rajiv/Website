@@ -30,12 +30,29 @@ body {
   color: white;
 }
 
+.development-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.development{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  margin-top : 50px;
+}
 .footer-link:hover{
   color:#EAF6F6;
 }
 
 .btn:hover{
   color : #000000;
+}
+
+.dice{
+  width: 18%;
+  float: right;
+  margin-left: 30px;
 }
 
 .Cricket {
@@ -103,6 +120,12 @@ p{
   color: #66BFBF;
   font-size: 2.50rem;
   font-weight: normal;
+}
+
+.tindog{
+  width: 18%;
+  float: left;
+  margin-right: 30px;
 }
 
 .top-cloud {
